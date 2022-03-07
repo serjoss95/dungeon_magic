@@ -4,7 +4,7 @@
       "name": "FhfhdArmor",
       "type": "armor",
       "sortid": 1,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "fhfhd_armor",
       "metadata": {
@@ -15,56 +15,26 @@
       }
     },
     {
-      "name": "FhfhdArmorHelmetRecipe",
-      "type": "recipe",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "fhfhd_armor_helmet_recipe"
-    },
-    {
-      "name": "FhfhdArmorBodyRecipe",
-      "type": "recipe",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "fhfhd_armor_body_recipe"
-    },
-    {
-      "name": "FhfhdArmorLeggingsRecipe",
-      "type": "recipe",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "fhfhd_armor_leggings_recipe"
-    },
-    {
-      "name": "FhfhdArmorBootsRecipe",
-      "type": "recipe",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "fhfhd_armor_boots_recipe"
-    },
-    {
       "name": "Maginitium",
       "type": "item",
       "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maginitium"
+    },
+    {
+      "name": "MaginitiumBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitium_block"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "item.dungeonmagic.maginitium": "Maginitium",
-      "item.dungeonmagic.fhfhd_armor_boots": "Fhfhd Boots",
-      "item.dungeonmagic.fhfhd_armor_helmet": "Fhfhd Helmet",
-      "item.dungeonmagic.fhfhd_armor_chestplate": "Fhfhd Chestplate",
-      "item.dungeonmagic.fhfhd_armor_leggings": "Fhfhd Leggings"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
