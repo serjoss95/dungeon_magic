@@ -18,7 +18,7 @@
       "name": "Maginitium",
       "type": "item",
       "sortid": 6,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "maginitium"
     },
@@ -26,7 +26,7 @@
       "name": "MaginitiumBlock",
       "type": "block",
       "sortid": 1,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "maginitium_block"
     }
