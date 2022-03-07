@@ -45,12 +45,21 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "fhfhd_armor_boots_recipe"
+    },
+    {
+      "name": "Maginitium",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitium"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.dungeonmagic.maginitium": "Maginitium",
       "item.dungeonmagic.fhfhd_armor_boots": "Fhfhd Boots",
       "item.dungeonmagic.fhfhd_armor_helmet": "Fhfhd Helmet",
       "item.dungeonmagic.fhfhd_armor_chestplate": "Fhfhd Chestplate",
