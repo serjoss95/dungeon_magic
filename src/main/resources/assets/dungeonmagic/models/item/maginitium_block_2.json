@@ -1,5 +1,5 @@
 {
-  "parent": "dungeonmagic:block/maginitium_block",
+  "parent": "dungeonmagic:block/maginitium_block_2",
   "display": {
     "thirdperson": {
       "rotation": [

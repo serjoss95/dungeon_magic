@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dungeonmagic:deleted_mod_element"
+    },
+    {
+      "item": "dungeonmagic:deleted_mod_element"
+    },
+    {
+      "item": "dungeonmagic:deleted_mod_element"
+    },
+    {
+      "item": "dungeonmagic:deleted_mod_element"
+    },
+    {
+      "item": "dungeonmagic:deleted_mod_element"
+    },
+    {
+      "item": "dungeonmagic:deleted_mod_element"
+    },
+    {
+      "item": "dungeonmagic:deleted_mod_element"
+    },
+    {
+      "item": "dungeonmagic:deleted_mod_element"
+    },
+    {
+      "item": "dungeonmagic:deleted_mod_element"
+    }
+  ],
+  "result": {
+    "item": "dungeonmagic:deleted_mod_element",
+    "count": 1
+  }
+}

@@ -7,7 +7,7 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": "CUSTOM:Maginitium"
@@ -40,7 +40,7 @@
     "recipeReturnStack": {
       "value": "CUSTOM:MaginitiumBlock"
     },
-    "name": "maginitium_blocke",
+    "name": "magnitium_blockrecipe",
     "namespace": "mod"
   }
 }

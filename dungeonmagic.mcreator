@@ -1,48 +1,46 @@
 {
   "mod_elements": [
     {
-      "name": "FhfhdArmor",
-      "type": "armor",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "fhfhd_armor",
-      "metadata": {
-        "eh": true,
-        "el": true,
-        "eb": true,
-        "ec": true
-      }
-    },
-    {
-      "name": "Maginitium",
-      "type": "item",
-      "sortid": 6,
-      "compiles": false,
-      "locked_code": false,
-      "registry_name": "maginitium"
-    },
-    {
-      "name": "MaginitiumBlock",
+      "name": "MaginitiumBlock2",
       "type": "block",
-      "sortid": 1,
-      "compiles": false,
-      "locked_code": false,
-      "registry_name": "maginitium_block"
-    },
-    {
-      "name": "MaginitiumBlocke",
-      "type": "recipe",
-      "sortid": 7,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "maginitium_blocke"
+      "registry_name": "maginitium_block_2"
+    },
+    {
+      "name": "Maginitium2",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitium_2"
+    },
+    {
+      "name": "TabDM2",
+      "type": "tab",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tab_dm_2"
+    },
+    {
+      "name": "MagnitiumBlockrecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magnitium_blockrecipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "itemGroup.tabtab_dm_2": "Tab DM",
+      "block.dungeonmagic.maginitium_block_2": "Maginitium Block",
+      "item.dungeonmagic.maginitium_2": "Maginitium"
+    }
   },
   "foldersRoot": {
     "name": "~",
