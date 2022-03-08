@@ -1,24 +1,10 @@
 {
   "mod_elements": [
     {
-      "name": "FhfhdArmor",
-      "type": "armor",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "fhfhd_armor",
-      "metadata": {
-        "eh": true,
-        "el": true,
-        "eb": true,
-        "ec": true
-      }
-    },
-    {
       "name": "Maginitium",
       "type": "item",
       "sortid": 6,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "maginitium"
     },
@@ -26,7 +12,7 @@
       "name": "MaginitiumBlock",
       "type": "block",
       "sortid": 1,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "maginitium_block"
     },
