@@ -63,6 +63,14 @@
           }
         ]
       }
+    },
+    {
+      "name": "Magobsidienne",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magobsidienne"
     }
   ],
   "variable_elements": [],
@@ -71,6 +79,7 @@
     "en_us": {
       "itemGroup.tabmd_tab": "MD_Tab",
       "item.dungeonmagic.maginitium": "Maginitium",
+      "block.dungeonmagic.magobsidienne": "Magic osidienne",
       "block.dungeonmagic.maginitiumore": "Maginitiumore"
     }
   },
