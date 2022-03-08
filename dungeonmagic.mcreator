@@ -1,42 +1,10 @@
 {
   "mod_elements": [
     {
-      "name": "Maginitium",
-      "type": "item",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium"
-    },
-    {
-      "name": "MaginitiumBlock",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium_block"
-    },
-    {
-      "name": "MaginitiumRecipe",
-      "type": "recipe",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium_recipe"
-    },
-    {
-      "name": "MagnitiumBlockrecipe",
-      "type": "recipe",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "magnitium_blockrecipe"
-    },
-    {
       "name": "MaginitiumBlock2",
       "type": "block",
       "sortid": 9,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "maginitium_block_2"
     },
@@ -44,7 +12,7 @@
       "name": "TabDM2",
       "type": "tab",
       "sortid": 11,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "tab_dm_2"
     }
