@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dungeonmagic:blocks/magic_obsidien",
+    "up": "dungeonmagic:blocks/magic_obsidien",
+    "north": "dungeonmagic:blocks/magic_obsidien",
+    "east": "dungeonmagic:blocks/magic_obsidien",
+    "south": "dungeonmagic:blocks/magic_obsidien",
+    "west": "dungeonmagic:blocks/magic_obsidien",
+    "particle": "dungeonmagic:blocks/magic_obsidien"
+  }
+}
