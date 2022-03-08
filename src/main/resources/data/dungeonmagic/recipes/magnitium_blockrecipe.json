@@ -2,35 +2,35 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "dungeonmagic:deleted_mod_element"
+      "item": "dungeonmagic:maginitium"
     },
     {
-      "item": "dungeonmagic:deleted_mod_element"
+      "item": "dungeonmagic:maginitium"
     },
     {
-      "item": "dungeonmagic:deleted_mod_element"
+      "item": "dungeonmagic:maginitium"
     },
     {
-      "item": "dungeonmagic:deleted_mod_element"
+      "item": "dungeonmagic:maginitium"
     },
     {
-      "item": "dungeonmagic:deleted_mod_element"
+      "item": "dungeonmagic:maginitium"
     },
     {
-      "item": "dungeonmagic:deleted_mod_element"
+      "item": "dungeonmagic:maginitium"
     },
     {
-      "item": "dungeonmagic:deleted_mod_element"
+      "item": "dungeonmagic:maginitium"
     },
     {
-      "item": "dungeonmagic:deleted_mod_element"
+      "item": "dungeonmagic:maginitium"
     },
     {
-      "item": "dungeonmagic:deleted_mod_element"
+      "item": "dungeonmagic:maginitium"
     }
   ],
   "result": {
-    "item": "dungeonmagic:deleted_mod_element",
+    "item": "dungeonmagic:maginitium_block",
     "count": 1
   }
 }

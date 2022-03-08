@@ -1,17 +1,9 @@
 
 package net.mcreator.dungeonmagic.itemgroup;
 
-import net.minecraftforge.api.distmarker.OnlyIn;
-import net.minecraftforge.api.distmarker.Dist;
-
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
-
-import net.mcreator.dungeonmagic.item.Maginitium2Item;
-import net.mcreator.dungeonmagic.DungeonmagicModElements;
-
 @DungeonmagicModElements.ModElement.Tag
 public class TabDM2ItemGroup extends DungeonmagicModElements.ModElement {
+
 	public TabDM2ItemGroup(DungeonmagicModElements instance) {
 		super(instance, 11);
 	}
@@ -33,4 +25,5 @@ public class TabDM2ItemGroup extends DungeonmagicModElements.ModElement {
 	}
 
 	public static ItemGroup tab;
+
 }
