@@ -7,13 +7,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "md_tab"
+    },
+    {
+      "name": "Maginitiumore",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitiumore"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabmd_tab": "MD Tab"
+      "itemGroup.tabmd_tab": "MD Tab",
+      "block.dungeonmagic.maginitiumore": "Maginitiumore"
     }
   },
   "foldersRoot": {
