@@ -34,7 +34,7 @@
     ],
     "name": "Maginitiumore",
     "specialInfo": [],
-    "hardness": 2.0,
+    "hardness": 8.0,
     "resistance": 10000.0,
     "hasGravity": false,
     "isWaterloggable": false,

@@ -63,7 +63,7 @@ public class MaginitiumoreBlock extends DungeonmagicModElements.ModElement {
 
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(2f, 10000f).setLightLevel(s -> 3)
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(8f, 10000f).setLightLevel(s -> 3)
 					.harvestLevel(4).harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("maginitiumore");
 		}
