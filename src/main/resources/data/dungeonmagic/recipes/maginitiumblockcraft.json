@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "dungeonmagic:maginitium"
+    },
+    "1": {
+      "item": "dungeonmagic:maginitium"
+    },
+    "2": {
+      "item": "dungeonmagic:maginitium"
+    },
+    "3": {
+      "item": "dungeonmagic:maginitium"
+    },
+    "4": {
+      "item": "dungeonmagic:maginitium"
+    },
+    "5": {
+      "item": "dungeonmagic:maginitium"
+    },
+    "6": {
+      "item": "dungeonmagic:maginitium"
+    },
+    "7": {
+      "item": "dungeonmagic:maginitium"
+    },
+    "8": {
+      "item": "dungeonmagic:maginitium"
+    }
+  },
+  "result": {
+    "item": "dungeonmagic:maginitium_block",
+    "count": 1
+  }
+}
