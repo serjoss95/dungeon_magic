@@ -36,7 +36,7 @@
       "name": "MaginitiumBlock2",
       "type": "block",
       "sortid": 9,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "maginitium_block_2"
     },
@@ -44,7 +44,7 @@
       "name": "TabDM2",
       "type": "tab",
       "sortid": 11,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "tab_dm_2"
     }
