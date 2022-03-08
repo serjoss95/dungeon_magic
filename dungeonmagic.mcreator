@@ -1,70 +1,9 @@
 {
-  "mod_elements": [
-    {
-      "name": "Maginitium",
-      "type": "item",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium"
-    },
-    {
-      "name": "MaginitiumBlock",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium_block"
-    },
-    {
-      "name": "MaginitiumRecipe",
-      "type": "recipe",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium_recipe"
-    },
-    {
-      "name": "Maginitium2",
-      "type": "item",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium_2"
-    },
-    {
-      "name": "MagnitiumBlockrecipe",
-      "type": "recipe",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "magnitium_blockrecipe"
-    },
-    {
-      "name": "MaginitiumBlock2",
-      "type": "block",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium_block_2"
-    },
-    {
-      "name": "TabDM2",
-      "type": "tab",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tab_dm_2"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "itemGroup.tabtab_dm_2": "Tab DM",
-      "block.dungeonmagic.maginitium_block_2": "Maginitium Block",
-      "item.dungeonmagic.maginitium_2": "Maginitium"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
