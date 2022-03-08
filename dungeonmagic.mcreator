@@ -61,7 +61,7 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabmd_tab": "MD Tab",
+      "itemGroup.tabmd_tab": "MD_Tab",
       "item.dungeonmagic.maginitium": "Maginitium",
       "advancements.maginitium_item.title": "Le début du voyage !",
       "advancements.maginitium_item.descr": "Vous avez trouvé votre premier minerai de Maginitium !"
