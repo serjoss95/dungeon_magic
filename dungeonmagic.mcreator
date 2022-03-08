@@ -23,14 +23,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "maginitium_recipe"
-    },
-    {
-      "name": "MagnitiumBlockrecipe",
-      "type": "recipe",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "magnitium_blockrecipe"
     }
   ],
   "variable_elements": [],
