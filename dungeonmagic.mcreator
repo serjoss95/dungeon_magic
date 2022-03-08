@@ -20,7 +20,7 @@
       "name": "GlowBreakBlock",
       "type": "procedure",
       "sortid": 2,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "glow_break_block",
       "metadata": {
