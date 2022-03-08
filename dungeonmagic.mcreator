@@ -25,14 +25,6 @@
       "registry_name": "maginitium_recipe"
     },
     {
-      "name": "Maginitium2",
-      "type": "item",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium_2"
-    },
-    {
       "name": "MagnitiumBlockrecipe",
       "type": "recipe",
       "sortid": 12,
@@ -62,8 +54,7 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabtab_dm_2": "Tab DM",
-      "block.dungeonmagic.maginitium_block_2": "Maginitium Block",
-      "item.dungeonmagic.maginitium_2": "Maginitium"
+      "block.dungeonmagic.maginitium_block_2": "Maginitium Block"
     }
   },
   "foldersRoot": {
