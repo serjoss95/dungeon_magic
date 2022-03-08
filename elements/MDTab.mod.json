@@ -2,9 +2,9 @@
   "_fv": 24,
   "_type": "tab",
   "definition": {
-    "name": "MD Tab",
+    "name": "MD_Tab",
     "icon": {
-      "value": "Blocks.AIR"
+      "value": "CUSTOM:Maginitium"
     },
     "showSearch": false
   }
