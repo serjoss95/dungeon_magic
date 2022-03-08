@@ -4,7 +4,7 @@
       "name": "MDTab",
       "type": "tab",
       "sortid": 1,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "md_tab"
     },
@@ -20,7 +20,7 @@
       "name": "Maginitium",
       "type": "item",
       "sortid": 2,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "maginitium"
     },
@@ -52,7 +52,7 @@
       "name": "GlowBreakBlock",
       "type": "procedure",
       "sortid": 2,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "glow_break_block",
       "metadata": {
