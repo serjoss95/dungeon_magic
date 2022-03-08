@@ -69,7 +69,8 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabmd_tab": "MD_Tab"
+      "itemGroup.tabmd_tab": "MD_Tab",
+      "block.dungeonmagic.maginitiumore": "Maginitiumore"
     }
   },
   "foldersRoot": {
