@@ -8,7 +8,7 @@
     "name": "Maginitium",
     "rarity": "UNCOMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:MDTab"
     },
     "stackSize": 64,
     "enchantability": 0,
@@ -27,7 +27,7 @@
     "specialInfo": [
       "Cet item permet de crée le portal activator"
     ],
-    "hasGlow": false,
+    "hasGlow": true,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
