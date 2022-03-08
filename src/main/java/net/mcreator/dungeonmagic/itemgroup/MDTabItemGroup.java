@@ -1,9 +1,17 @@
 
 package net.mcreator.dungeonmagic.itemgroup;
 
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.api.distmarker.Dist;
+
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
+
+import net.mcreator.dungeonmagic.item.MaginitiumItem;
+import net.mcreator.dungeonmagic.DungeonmagicModElements;
+
 @DungeonmagicModElements.ModElement.Tag
 public class MDTabItemGroup extends DungeonmagicModElements.ModElement {
-
 	public MDTabItemGroup(DungeonmagicModElements instance) {
 		super(instance, 1);
 	}
@@ -14,7 +22,7 @@ public class MDTabItemGroup extends DungeonmagicModElements.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(Blocks.AIR);
+				return new ItemStack(MaginitiumItem.block);
 			}
 
 			@OnlyIn(Dist.CLIENT)
@@ -25,5 +33,4 @@ public class MDTabItemGroup extends DungeonmagicModElements.ModElement {
 	}
 
 	public static ItemGroup tab;
-
 }

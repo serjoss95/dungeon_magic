@@ -4,7 +4,7 @@
   "definition": {
     "name": "MD Tab",
     "icon": {
-      "value": "Blocks.AIR"
+      "value": "CUSTOM:Maginitium"
     },
     "showSearch": false
   }
