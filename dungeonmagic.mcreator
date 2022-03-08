@@ -4,9 +4,17 @@
       "name": "MDTab",
       "type": "tab",
       "sortid": 1,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "md_tab"
+    },
+    {
+      "name": "MaginitiumBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitium_block"
     },
     {
       "name": "GlowBreakBlock",
@@ -25,12 +33,12 @@
       }
     },
     {
-      "name": "MaginitiumBlock",
-      "type": "block",
+      "name": "Maginitium",
+      "type": "item",
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "maginitium_block"
+      "registry_name": "maginitium"
     }
   ],
   "variable_elements": [],
@@ -38,7 +46,7 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabmd_tab": "MD Tab",
-      "block.dungeonmagic.maginitium_block": "Maginitium Block"
+      "item.dungeonmagic.maginitium": "Maginitium"
     }
   },
   "foldersRoot": {
