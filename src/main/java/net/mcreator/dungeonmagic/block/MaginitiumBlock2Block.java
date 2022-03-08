@@ -5,13 +5,13 @@ import net.minecraft.block.material.Material;
 import net.minecraft.util.SoundEvent;
 
 @DungeonmagicModElements.ModElement.Tag
-public class MaginitiumBlockBlock extends DungeonmagicModElements.ModElement {
+public class MaginitiumBlock2Block extends DungeonmagicModElements.ModElement {
 
-	@ObjectHolder("dungeonmagic:maginitium_block")
+	@ObjectHolder("dungeonmagic:maginitium_block_2")
 	public static final Block block = null;
 
-	public MaginitiumBlockBlock(DungeonmagicModElements instance) {
-		super(instance, 1);
+	public MaginitiumBlock2Block(DungeonmagicModElements instance) {
+		super(instance, 9);
 
 	}
 
@@ -27,7 +27,7 @@ public class MaginitiumBlockBlock extends DungeonmagicModElements.ModElement {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
 
-			setRegistryName("maginitium_block");
+			setRegistryName("maginitium_block_2");
 		}
 
 		@Override

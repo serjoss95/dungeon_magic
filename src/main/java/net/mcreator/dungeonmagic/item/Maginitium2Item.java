@@ -4,13 +4,13 @@ package net.mcreator.dungeonmagic.item;
 import net.minecraft.entity.ai.attributes.Attributes;
 
 @DungeonmagicModElements.ModElement.Tag
-public class MaginitiumItem extends DungeonmagicModElements.ModElement {
+public class Maginitium2Item extends DungeonmagicModElements.ModElement {
 
-	@ObjectHolder("dungeonmagic:maginitium")
+	@ObjectHolder("dungeonmagic:maginitium_2")
 	public static final Item block = null;
 
-	public MaginitiumItem(DungeonmagicModElements instance) {
-		super(instance, 6);
+	public Maginitium2Item(DungeonmagicModElements instance) {
+		super(instance, 10);
 
 	}
 
@@ -23,7 +23,7 @@ public class MaginitiumItem extends DungeonmagicModElements.ModElement {
 
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
-			setRegistryName("maginitium");
+			setRegistryName("maginitium_2");
 		}
 
 		@Override

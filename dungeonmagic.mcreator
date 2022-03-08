@@ -17,26 +17,54 @@
       "registry_name": "maginitium_block"
     },
     {
-      "name": "MaginitiumBlocke",
-      "type": "recipe",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium_blocke"
-    },
-    {
       "name": "MaginitiumRecipe",
       "type": "recipe",
       "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maginitium_recipe"
+    },
+    {
+      "name": "Maginitium2",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitium_2"
+    },
+    {
+      "name": "MagnitiumBlockrecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magnitium_blockrecipe"
+    },
+    {
+      "name": "MaginitiumBlock2",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitium_block_2"
+    },
+    {
+      "name": "TabDM2",
+      "type": "tab",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tab_dm_2"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "itemGroup.tabtab_dm_2": "Tab DM",
+      "block.dungeonmagic.maginitium_block_2": "Maginitium Block",
+      "item.dungeonmagic.maginitium_2": "Maginitium"
+    }
   },
   "foldersRoot": {
     "name": "~",
