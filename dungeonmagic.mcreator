@@ -4,7 +4,7 @@
       "name": "MDTab",
       "type": "tab",
       "sortid": 1,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "md_tab"
     },
@@ -20,7 +20,7 @@
       "name": "GlowBreakBlock",
       "type": "procedure",
       "sortid": 2,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "glow_break_block",
       "metadata": {
@@ -36,7 +36,7 @@
       "name": "Maginitium",
       "type": "item",
       "sortid": 2,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "maginitium"
     },
@@ -47,6 +47,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "maginitium_item"
+    },
+    {
+      "name": "Maginitiumblockcraft",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitiumblockcraft"
     }
   ],
   "variable_elements": [],
