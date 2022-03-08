@@ -27,7 +27,7 @@
     "specialInfo": [
       "Cet item permet de crée le portal activator"
     ],
-    "hasGlow": true,
+    "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
