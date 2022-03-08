@@ -9,12 +9,44 @@
       "registry_name": "md_tab"
     },
     {
+      "name": "Maginitiumore",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitiumore"
+    },
+    {
+      "name": "Maginitium",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitium"
+    },
+    {
       "name": "MaginitiumBlock",
       "type": "block",
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maginitium_block"
+    },
+    {
+      "name": "MaginitiumItem",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitium_item"
+    },
+    {
+      "name": "Maginitiumblockcraft",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitiumblockcraft"
     },
     {
       "name": "GlowBreakBlock",
@@ -33,28 +65,12 @@
       }
     },
     {
-      "name": "Maginitium",
-      "type": "item",
-      "sortid": 2,
+      "name": "Magobsidienne",
+      "type": "block",
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "maginitium"
-    },
-    {
-      "name": "MaginitiumItem",
-      "type": "achievement",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitium_item"
-    },
-    {
-      "name": "Maginitiumblockcraft",
-      "type": "recipe",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitiumblockcraft"
+      "registry_name": "magobsidienne"
     }
   ],
   "variable_elements": [],
@@ -63,8 +79,8 @@
     "en_us": {
       "itemGroup.tabmd_tab": "MD_Tab",
       "item.dungeonmagic.maginitium": "Maginitium",
-      "advancements.maginitium_item.title": "Le début du voyage !",
-      "advancements.maginitium_item.descr": "Vous avez trouvé votre premier minerai de Maginitium !"
+      "block.dungeonmagic.magobsidienne": "Magic osidienne",
+      "block.dungeonmagic.maginitiumore": "Maginitiumore"
     }
   },
   "foldersRoot": {
