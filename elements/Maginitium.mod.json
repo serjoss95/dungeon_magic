@@ -8,7 +8,7 @@
     "name": "Maginitium",
     "rarity": "UNCOMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:MDTab"
     },
     "stackSize": 64,
     "enchantability": 0,
