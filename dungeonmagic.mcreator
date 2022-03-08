@@ -9,28 +9,12 @@
       "registry_name": "md_tab"
     },
     {
-      "name": "MaginitiumBlock",
+      "name": "Maginitiumore",
       "type": "block",
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "maginitium_block"
-    },
-    {
-      "name": "GlowBreakBlock",
-      "type": "procedure",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "glow_break_block",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
+      "registry_name": "maginitiumore"
     },
     {
       "name": "Maginitium",
@@ -39,6 +23,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "maginitium"
+    },
+    {
+      "name": "MaginitiumBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitium_block"
     },
     {
       "name": "MaginitiumItem",
@@ -55,16 +47,29 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "maginitiumblockcraft"
+    },
+    {
+      "name": "GlowBreakBlock",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glow_break_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabmd_tab": "MD_Tab",
-      "item.dungeonmagic.maginitium": "Maginitium",
-      "advancements.maginitium_item.title": "Le début du voyage !",
-      "advancements.maginitium_item.descr": "Vous avez trouvé votre premier minerai de Maginitium !"
+      "itemGroup.tabmd_tab": "MD_Tab"
     }
   },
   "foldersRoot": {
