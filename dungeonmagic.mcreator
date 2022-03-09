@@ -71,6 +71,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "magobsidienne"
+    },
+    {
+      "name": "CarteKiwi",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carte_kiwi"
     }
   ],
   "variable_elements": [],
@@ -80,7 +88,8 @@
       "itemGroup.tabmd_tab": "MD_Tab",
       "item.dungeonmagic.maginitium": "Maginitium",
       "block.dungeonmagic.magobsidienne": "Magic osidienne",
-      "block.dungeonmagic.maginitiumore": "Maginitiumore"
+      "block.dungeonmagic.maginitiumore": "Maginitiumore",
+      "item.dungeonmagic.carte_kiwi": "Carte Kiwi"
     }
   },
   "foldersRoot": {
