@@ -2,16 +2,16 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "magic_obsidien",
-    "textureTop": "",
-    "textureLeft": "",
-    "textureFront": "",
-    "textureRight": "",
-    "textureBack": "",
+    "texture": "magic_dirt_bottom",
+    "textureTop": "magic_dirt_top",
+    "textureLeft": "magic_dirt",
+    "textureFront": "magic_dirt",
+    "textureRight": "magic_dirt",
+    "textureBack": "magic_dirt",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
-    "emissiveRendering": true,
+    "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
@@ -32,10 +32,10 @@
         "subtract": false
       }
     ],
-    "name": "Magic osidienne",
+    "name": "Magicgrass",
     "specialInfo": [],
-    "hardness": -1.0,
-    "resistance": 0.0,
+    "hardness": 1.0,
+    "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
@@ -52,7 +52,7 @@
     "canRedstoneConnect": false,
     "lightOpacity": 15,
     "material": {
-      "value": "ROCK"
+      "value": "GRASS"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -77,7 +77,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "GROUND"
     },
     "breakSound": {
       "value": ""
@@ -94,16 +94,16 @@
     "fallSound": {
       "value": ""
     },
-    "luminance": 15,
-    "unbreakable": true,
-    "breakHarvestLevel": -1,
-    "spawnParticles": true,
+    "luminance": 0,
+    "unbreakable": false,
+    "breakHarvestLevel": 1,
+    "spawnParticles": false,
     "particleToSpawn": {
-      "value": "ENCHANTMENT_TABLE"
+      "value": "EXPLOSION_NORMAL"
     },
     "particleSpawningShape": "Spread",
-    "particleSpawningRadious": 1.5,
-    "particleAmount": 5,
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
     "hasInventory": false,
     "guiBoundTo": "<NONE>",
     "openGUIOnRightClick": false,
@@ -123,7 +123,11 @@
     "fluidRestrictions": [],
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
-    "blocksToReplace": [],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.STONE"
+      }
+    ],
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,
     "minGenerateHeight": 0,

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "dungeonmagic:blocks/maginophytum_haut",
+    "particle": "dungeonmagic:blocks/maginophytum_haut"
+  }
+}

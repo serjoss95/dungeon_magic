@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "dungeonmagic:block/maginophytum"
+    },
+    "half=lower": {
+      "model": "dungeonmagic:block/maginophytum_bottom"
+    }
+  }
+}

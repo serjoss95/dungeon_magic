@@ -107,6 +107,54 @@
           }
         ]
       }
+    },
+    {
+      "name": "Magicgrass",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicgrass"
+    },
+    {
+      "name": "Magicdirt",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicdirt"
+    },
+    {
+      "name": "Magicstone",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicstone"
+    },
+    {
+      "name": "Maginophytum",
+      "type": "plant",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginophytum"
+    },
+    {
+      "name": "NVInventoryMaginophytum",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nv_inventory_maginophytum",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -118,7 +166,8 @@
       "block.dungeonmagic.maginitium_block": "Maginitium Block",
       "block.dungeonmagic.magobsidienne": "Magic osidienne",
       "block.dungeonmagic.maginitiumore": "Maginitiumore",
-      "item.dungeonmagic.carte_kiwi": "Carte Kiwi"
+      "item.dungeonmagic.carte_kiwi": "Carte Kiwi",
+      "block.dungeonmagic.maginophytum": "Maginophytum"
     }
   },
   "foldersRoot": {
