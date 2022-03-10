@@ -1,11 +1,6 @@
 package net.mcreator.dungeonmagic.procedures;
 
-import net.minecraft.world.IWorld;
-import net.minecraft.particles.ParticleTypes;
-
-import net.mcreator.dungeonmagic.DungeonmagicMod;
-
-import java.util.Map;
+import net.minecraftforge.eventbus.api.Event;
 
 public class ParticlesMaginophytumProcedure {
 
@@ -30,10 +25,13 @@ public class ParticlesMaginophytumProcedure {
 				DungeonmagicMod.LOGGER.warn("Failed to load dependency z for procedure ParticlesMaginophytum!");
 			return;
 		}
+
 		IWorld world = (IWorld) dependencies.get("world");
 		double x = dependencies.get("x") instanceof Integer ? (int) dependencies.get("x") : (double) dependencies.get("x");
 		double y = dependencies.get("y") instanceof Integer ? (int) dependencies.get("y") : (double) dependencies.get("y");
 		double z = dependencies.get("z") instanceof Integer ? (int) dependencies.get("z") : (double) dependencies.get("z");
+
 		world.addParticle(ParticleTypes.ENCHANT, x, y, z, 0, 1, 0);
 	}
+
 }
