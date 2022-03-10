@@ -71,6 +71,42 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "magobsidienne"
+    },
+    {
+      "name": "CarteKiwi",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carte_kiwi"
+    },
+    {
+      "name": "ParticlesMaginophytum",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "particles_maginophytum",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -80,6 +116,7 @@
       "itemGroup.tabmd_tab": "MD_Tab",
       "item.dungeonmagic.maginitium": "Maginitium",
       "advancements.maginitium_item.title": "Le début du voyage !",
+      "block.dungeonmagic.maginitium_block": "Maginitium Block",
       "block.dungeonmagic.magobsidienne": "Magic osidienne",
       "block.dungeonmagic.maginitiumore": "Maginitiumore",
       "advancements.maginitium_item.descr": "Vous avez trouvé votre premier minerai de Maginitium !"

@@ -37,7 +37,7 @@ public class MagobsidienneBlock extends DungeonmagicModElements.ModElement {
 
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(99f, 10f).setLightLevel(s -> 2)
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(-1f, 10f).setLightLevel(s -> 2)
 					.setNeedsPostProcessing((bs, br, bp) -> true).setEmmisiveRendering((bs, br, bp) -> true));
 			setRegistryName("magobsidienne");
 		}

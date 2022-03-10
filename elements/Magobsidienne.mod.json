@@ -34,8 +34,8 @@
     ],
     "name": "Magic osidienne",
     "specialInfo": [],
-    "hardness": 99.0,
-    "resistance": 10.0,
+    "hardness": -1.0,
+    "resistance": 0.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
@@ -77,7 +77,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "GROUND"
+      "value": "STONE"
     },
     "breakSound": {
       "value": ""
@@ -94,16 +94,16 @@
     "fallSound": {
       "value": ""
     },
-    "luminance": 2,
+    "luminance": 15,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
-    "spawnParticles": false,
+    "breakHarvestLevel": -1,
+    "spawnParticles": true,
     "particleToSpawn": {
       "value": "ENCHANTMENT_TABLE"
     },
     "particleSpawningShape": "Spread",
-    "particleSpawningRadious": 1.0,
-    "particleAmount": 4,
+    "particleSpawningRadious": 1.5,
+    "particleAmount": 5,
     "hasInventory": false,
     "guiBoundTo": "<NONE>",
     "openGUIOnRightClick": false,

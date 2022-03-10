@@ -3,10 +3,10 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "maginitium",
+    "texture": "carte_kiwi",
     "customModelName": "Normal",
-    "name": "Maginitium",
-    "rarity": "UNCOMMON",
+    "name": "Carte Kiwi",
+    "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:MDTab"
     },
@@ -24,10 +24,8 @@
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
-    "specialInfo": [
-      "Cet item permet de crée le portal activator"
-    ],
-    "hasGlow": true,
+    "specialInfo": [],
+    "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,

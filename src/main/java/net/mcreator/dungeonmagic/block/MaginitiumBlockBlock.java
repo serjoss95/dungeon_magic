@@ -2,6 +2,7 @@
 package net.mcreator.dungeonmagic.block;
 
 import net.minecraftforge.registries.ObjectHolder;
+import net.minecraftforge.common.ToolType;
 
 import net.minecraft.world.World;
 import net.minecraft.world.IBlockReader;
@@ -45,7 +46,8 @@ public class MaginitiumBlockBlock extends DungeonmagicModElements.ModElement {
 
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(5f, 10f).setLightLevel(s -> 3));
+			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(40f, 100000f).setLightLevel(s -> 3)
+					.harvestLevel(4).harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("maginitium_block");
 		}
 

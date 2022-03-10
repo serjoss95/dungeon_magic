@@ -34,14 +34,14 @@
     ],
     "name": "Maginitium Block",
     "specialInfo": [],
-    "hardness": 5.0,
-    "resistance": 10.0,
+    "hardness": 40.0,
+    "resistance": 100000.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:MDTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },
@@ -96,7 +96,7 @@
     },
     "luminance": 3,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
+    "breakHarvestLevel": 4,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
