@@ -95,7 +95,7 @@
       "value": ""
     },
     "luminance": 15,
-    "unbreakable": false,
+    "unbreakable": true,
     "breakHarvestLevel": -1,
     "spawnParticles": true,
     "particleToSpawn": {
