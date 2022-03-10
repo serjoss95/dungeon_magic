@@ -1,9 +1,13 @@
 {
+  "block.dungeonmagic.magicstone": "Magicstone",
   "itemGroup.tabmd_tab": "MD_Tab",
   "item.dungeonmagic.maginitium": "Maginitium",
   "advancements.maginitium_item.title": "Le début du voyage !",
   "block.dungeonmagic.maginitium_block": "Maginitium Block",
   "block.dungeonmagic.magobsidienne": "Magic osidienne",
   "block.dungeonmagic.maginitiumore": "Maginitiumore",
-  "advancements.maginitium_item.descr": "Vous avez trouvé votre premier minerai de Maginitium !"
+  "advancements.maginitium_item.descr": "Vous avez trouvé votre premier minerai de Maginitium !",
+  "block.dungeonmagic.magicdirt": "Magicdirt",
+  "item.dungeonmagic.carte_kiwi": "Carte Kiwi",
+  "block.dungeonmagic.magicgrass": "Magicgrass"
 }

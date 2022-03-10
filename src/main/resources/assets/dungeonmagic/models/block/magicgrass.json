@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dungeonmagic:blocks/magic_dirt_bottom",
+    "up": "dungeonmagic:blocks/magic_dirt_top",
+    "north": "dungeonmagic:blocks/magic_dirt",
+    "east": "dungeonmagic:blocks/magic_dirt",
+    "south": "dungeonmagic:blocks/magic_dirt",
+    "west": "dungeonmagic:blocks/magic_dirt",
+    "particle": "dungeonmagic:blocks/magic_dirt_bottom"
+  }
+}

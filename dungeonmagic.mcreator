@@ -107,19 +107,47 @@
           }
         ]
       }
+    },
+    {
+      "name": "Magicdirt",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicdirt"
+    },
+    {
+      "name": "Magicgrass",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicgrass"
+    },
+    {
+      "name": "Magicstone",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicstone"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.dungeonmagic.magicstone": "Magicstone",
       "itemGroup.tabmd_tab": "MD_Tab",
       "item.dungeonmagic.maginitium": "Maginitium",
       "advancements.maginitium_item.title": "Le début du voyage !",
       "block.dungeonmagic.maginitium_block": "Maginitium Block",
       "block.dungeonmagic.magobsidienne": "Magic osidienne",
       "block.dungeonmagic.maginitiumore": "Maginitiumore",
-      "advancements.maginitium_item.descr": "Vous avez trouvé votre premier minerai de Maginitium !"
+      "advancements.maginitium_item.descr": "Vous avez trouvé votre premier minerai de Maginitium !",
+      "block.dungeonmagic.magicdirt": "Magicdirt",
+      "item.dungeonmagic.carte_kiwi": "Carte Kiwi",
+      "block.dungeonmagic.magicgrass": "Magicgrass"
     }
   },
   "foldersRoot": {
