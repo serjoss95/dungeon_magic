@@ -1,5 +1,8 @@
 {
   "itemGroup.tabmd_tab": "MD_Tab",
   "item.dungeonmagic.maginitium": "Maginitium",
-  "block.dungeonmagic.maginitiumore": "Maginitiumore"
+  "advancements.maginitium_item.title": "Le début du voyage !",
+  "block.dungeonmagic.magobsidienne": "Magic osidienne",
+  "block.dungeonmagic.maginitiumore": "Maginitiumore",
+  "advancements.maginitium_item.descr": "Vous avez trouvé votre premier minerai de Maginitium !"
 }
