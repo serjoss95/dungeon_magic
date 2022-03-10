@@ -109,6 +109,30 @@
       }
     },
     {
+      "name": "Magicgrass",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicgrass"
+    },
+    {
+      "name": "Magicdirt",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicdirt"
+    },
+    {
+      "name": "Magicstone",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicstone"
+    },
+    {
       "name": "Maginophytum",
       "type": "plant",
       "sortid": 5,
