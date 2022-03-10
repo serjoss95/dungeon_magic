@@ -76,7 +76,7 @@
       "name": "CarteKiwi",
       "type": "item",
       "sortid": 5,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "carte_kiwi"
     },
@@ -84,7 +84,7 @@
       "name": "ParticlesMaginophytum",
       "type": "procedure",
       "sortid": 6,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "particles_maginophytum",
       "metadata": {
@@ -112,7 +112,7 @@
       "name": "Maginophytum",
       "type": "plant",
       "sortid": 5,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "maginophytum"
     },
@@ -120,7 +120,7 @@
       "name": "NVInventoryMaginophytum",
       "type": "procedure",
       "sortid": 7,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "nv_inventory_maginophytum",
       "metadata": {
