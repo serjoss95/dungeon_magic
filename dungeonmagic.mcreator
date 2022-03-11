@@ -211,6 +211,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "dungicsactivatorr"
+    },
+    {
+      "name": "CraftDungics",
+      "type": "achievement",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_dungics"
     }
   ],
   "variable_elements": [],
@@ -228,9 +236,11 @@
       "block.dungeonmagic.maginophytum": "Maginophytum",
       "block.dungeonmagic.boismagic": "Magic Wood",
       "item.dungeonmagic.maginitium": "Maginitium",
+      "advancements.craft_dungics.descr": "Tu veux aller dans une dimension dangereuse... Fais bien attention à toi.",
       "block.dungeonmagic.branchemagic": "Branchemagic",
       "block.dungeonmagic.magicdirt": "Magicdirt",
-      "item.dungeonmagic.carte_kiwi": "Carte Kiwi"
+      "item.dungeonmagic.carte_kiwi": "Carte Kiwi",
+      "advancements.craft_dungics.title": "Alors tu veux vraiment y aller ?"
     }
   },
   "foldersRoot": {
