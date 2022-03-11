@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dungeonmagic:blocks/magic_wood_top",
+    "up": "dungeonmagic:blocks/magic_wood_top",
+    "north": "dungeonmagic:blocks/magic_wood_side",
+    "east": "dungeonmagic:blocks/magic_wood_side",
+    "south": "dungeonmagic:blocks/magic_wood_side",
+    "west": "dungeonmagic:blocks/magic_wood_side",
+    "particle": "dungeonmagic:blocks/magic_wood_top"
+  }
+}
