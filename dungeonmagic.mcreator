@@ -168,7 +168,7 @@
       "name": "Magicbiome",
       "type": "biome",
       "sortid": 12,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "magicbiome"
     },
@@ -176,7 +176,7 @@
       "name": "Boismagic",
       "type": "block",
       "sortid": 10,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "boismagic"
     },
@@ -184,7 +184,7 @@
       "name": "Branchemagic",
       "type": "block",
       "sortid": 11,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "branchemagic"
     }
