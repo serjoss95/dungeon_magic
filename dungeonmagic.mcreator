@@ -157,10 +157,42 @@
       }
     },
     {
+      "name": "Maginitiumrecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitiumrecipe"
+    },
+    {
+      "name": "Magicplanks",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicplanks"
+    },
+    {
+      "name": "Magicbiome",
+      "type": "biome",
+      "sortid": 12,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "magicbiome"
+    },
+    {
+      "name": "Maginitiumr",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitiumr"
+    },
+    {
       "name": "Boismagic",
       "type": "block",
       "sortid": 10,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "boismagic"
     },
@@ -168,17 +200,9 @@
       "name": "Branchemagic",
       "type": "block",
       "sortid": 11,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "branchemagic"
-    },
-    {
-      "name": "Magicbiome",
-      "type": "biome",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "magicbiome"
     }
   ],
   "variable_elements": [],
@@ -189,13 +213,10 @@
       "itemGroup.tabmd_tab": "MD_Tab",
       "block.dungeonmagic.maginitium_block": "Maginitium Block",
       "block.dungeonmagic.magobsidienne": "Magic osidienne",
-      "biome.dungeonmagic.magicbiome": "Magic forest",
       "block.dungeonmagic.maginitiumore": "Maginitiumore",
       "block.dungeonmagic.magicgrass": "Magicgrass",
       "block.dungeonmagic.maginophytum": "Maginophytum",
-      "block.dungeonmagic.boismagic": "Magic Wood",
       "item.dungeonmagic.maginitium": "Maginitium",
-      "block.dungeonmagic.branchemagic": "Branchemagic",
       "block.dungeonmagic.magicdirt": "Magicdirt",
       "item.dungeonmagic.carte_kiwi": "Carte Kiwi"
     }
