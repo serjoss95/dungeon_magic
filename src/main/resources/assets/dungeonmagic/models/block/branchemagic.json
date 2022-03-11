@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dungeonmagic:blocks/magic_leave_1",
+    "particle": "dungeonmagic:blocks/magic_leave_1"
+  }
+}
