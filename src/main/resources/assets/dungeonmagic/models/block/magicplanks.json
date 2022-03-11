@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dungeonmagic:blocks/magic_planks",
+    "up": "dungeonmagic:blocks/magic_planks",
+    "north": "dungeonmagic:blocks/magic_planks",
+    "east": "dungeonmagic:blocks/magic_planks",
+    "south": "dungeonmagic:blocks/magic_planks",
+    "west": "dungeonmagic:blocks/magic_planks",
+    "particle": "dungeonmagic:blocks/magic_planks"
+  }
+}

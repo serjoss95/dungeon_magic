@@ -155,6 +155,22 @@
           }
         ]
       }
+    },
+    {
+      "name": "Maginitiumrecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maginitiumrecipe"
+    },
+    {
+      "name": "Magicplanks",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicplanks"
     }
   ],
   "variable_elements": [],
@@ -167,6 +183,7 @@
       "block.dungeonmagic.maginitium_block": "Maginitium Block",
       "block.dungeonmagic.magobsidienne": "Magic osidienne",
       "block.dungeonmagic.maginitiumore": "Maginitiumore",
+      "block.dungeonmagic.magicplanks": "Magicplanks",
       "block.dungeonmagic.magicdirt": "Magicdirt",
       "item.dungeonmagic.carte_kiwi": "Carte Kiwi",
       "block.dungeonmagic.magicgrass": "Magicgrass",
