@@ -2,11 +2,15 @@
   "block.dungeonmagic.magicstone": "Magicstone",
   "itemGroup.tabmd_tab": "MD_Tab",
   "block.dungeonmagic.maginitium_block": "Maginitium Block",
-  "item.dungeonmagic.maginitium": "Maginitium",
   "block.dungeonmagic.magobsidienne": "Magic osidienne",
+  "biome.dungeonmagic.magicbiome": "Magic forest",
   "block.dungeonmagic.maginitiumore": "Maginitiumore",
-  "block.dungeonmagic.magicdirt": "Magicdirt",
+  "block.dungeonmagic.magicplanks": "Magicplanks",
   "block.dungeonmagic.magicgrass": "Magicgrass",
-  "item.dungeonmagic.carte_kiwi": "Carte Kiwi",
-  "block.dungeonmagic.maginophytum": "Maginophytum"
+  "block.dungeonmagic.maginophytum": "Maginophytum",
+  "block.dungeonmagic.boismagic": "Magic Wood",
+  "item.dungeonmagic.maginitium": "Maginitium",
+  "block.dungeonmagic.branchemagic": "Branchemagic",
+  "block.dungeonmagic.magicdirt": "Magicdirt",
+  "item.dungeonmagic.carte_kiwi": "Carte Kiwi"
 }
