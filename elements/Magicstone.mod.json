@@ -122,7 +122,11 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "spawnWorldTypes": [],
-    "restrictionBiomes": [],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Magicbiome"
+      }
+    ],
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"
