@@ -102,8 +102,8 @@ public class MaginophytumBlock extends DungeonmagicModElements.ModElement {
 			};
 			configuredFeature = feature.withConfiguration(
 					(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new DoublePlantBlockPlacer()))
-							.tries(1).func_227317_b_().build())
-					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(1);
+							.tries(10).func_227317_b_().build())
+					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(5);
 			event.getRegistry().register(feature.setRegistryName("maginophytum"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("dungeonmagic:maginophytum"), configuredFeature);
 		}

@@ -3,8 +3,8 @@
   "_type": "plant",
   "definition": {
     "renderType": 12,
-    "texture": "maginophytum_haut",
-    "textureBottom": "maginitophytum_base",
+    "texture": "fleur1",
+    "textureBottom": "fleur2",
     "customModelName": "Cross model",
     "itemTexture": "maginophytum_item",
     "particleTexture": "",
@@ -118,7 +118,7 @@
         "value": "Blocks.SOUL_SOIL"
       }
     ],
-    "frequencyOnChunks": 1,
+    "frequencyOnChunks": 5,
     "spawnWorldTypes": [
       "Surface"
     ],
@@ -127,7 +127,7 @@
         "value": "CUSTOM:Magicbiome"
       }
     ],
-    "patchSize": 1,
+    "patchSize": 10,
     "onTickUpdate": {
       "name": "ParticlesMaginophytum"
     }

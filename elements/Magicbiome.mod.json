@@ -22,14 +22,14 @@
       "value": ""
     },
     "moodSoundDelay": 6000,
-    "spawnParticles": false,
+    "spawnParticles": true,
     "particleToSpawn": {
-      "value": "EXPLOSION_NORMAL"
+      "value": "CRIT_MAGIC"
     },
     "particlesProbability": 0.5,
     "biomeCategory": "NONE",
     "parent": {
-      "value": "No parent"
+      "value": "CUSTOM:Magicbiome"
     },
     "rainingPossibility": 0.0,
     "temperature": 0.5,
@@ -37,7 +37,7 @@
     "heightVariation": 0.2,
     "biomeType": "WARM",
     "spawnBiome": true,
-    "biomeWeight": 20,
+    "biomeWeight": 5,
     "biomeDictionaryTypes": [],
     "grassPerChunk": 4,
     "seagrassPerChunk": 0,
@@ -48,7 +48,7 @@
     "gravelPatchesPerChunk": 0,
     "reedsPerChunk": 0,
     "cactiPerChunk": 0,
-    "treesPerChunk": 4,
+    "treesPerChunk": 20,
     "vanillaTreeType": "Default",
     "treeType": 1,
     "minHeight": 7,
@@ -64,7 +64,7 @@
     "treeFruits": {
       "value": ""
     },
-    "spawnStronghold": true,
+    "spawnStronghold": false,
     "spawnMineshaft": false,
     "spawnMineshaftMesa": false,
     "spawnPillagerOutpost": false,
