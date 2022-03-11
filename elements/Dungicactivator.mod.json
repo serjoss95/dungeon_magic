@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dungic_activator",
+    "customModelName": "Normal",
+    "name": "Dungicactivator",
+    "specialInfo": [
+      "activator of the dungic dimension"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MDTab"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 4.0,
+    "usageCount": 10,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -203,6 +203,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "branchemagic"
+    },
+    {
+      "name": "Dungicactivator",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dungicactivator"
+    },
+    {
+      "name": "Dungicactivatorrecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dungicactivatorrecipe"
     }
   ],
   "variable_elements": [],
@@ -219,6 +235,7 @@
       "block.dungeonmagic.magicgrass": "Magicgrass",
       "block.dungeonmagic.maginophytum": "Maginophytum",
       "block.dungeonmagic.boismagic": "Magic Wood",
+      "item.dungeonmagic.dungicactivator": "Dungicactivator",
       "item.dungeonmagic.maginitium": "Maginitium",
       "block.dungeonmagic.branchemagic": "Branchemagic",
       "block.dungeonmagic.magicdirt": "Magicdirt",
