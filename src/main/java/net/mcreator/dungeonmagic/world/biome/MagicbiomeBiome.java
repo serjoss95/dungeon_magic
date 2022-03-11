@@ -14,6 +14,7 @@ import net.minecraft.world.gen.placement.Placement;
 import net.minecraft.world.gen.placement.NoiseDependant;
 import net.minecraft.world.gen.placement.AtSurfaceWithExtraConfig;
 import net.minecraft.world.gen.foliageplacer.BlobFoliagePlacer;
+import net.minecraft.world.gen.feature.structure.StructureFeatures;
 import net.minecraft.world.gen.feature.TwoLayerFeature;
 import net.minecraft.world.gen.feature.Features;
 import net.minecraft.world.gen.feature.FeatureSpread;
@@ -54,13 +55,14 @@ public class MagicbiomeBiome extends DungeonmagicModElements.ModElement {
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder()
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(MagicgrassBlock.block.getDefaultState(),
 								MagicstoneBlock.block.getDefaultState(), MagicstoneBlock.block.getDefaultState())));
+				biomeGenerationSettings.withStructure(StructureFeatures.STRONGHOLD);
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION, Feature.TREE
 						.withConfiguration((new BaseTreeFeatureConfig.Builder(new SimpleBlockStateProvider(BoismagicBlock.block.getDefaultState()),
 								new SimpleBlockStateProvider(BranchemagicBlock.block.getDefaultState()),
 								new BlobFoliagePlacer(FeatureSpread.func_242252_a(2), FeatureSpread.func_242252_a(0), 3),
 								new StraightTrunkPlacer(7, 2, 0), new TwoLayerFeature(1, 0, 1))).setIgnoreVines().build())
 						.withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT)
-						.withPlacement(Placement.COUNT_EXTRA.configure(new AtSurfaceWithExtraConfig(1, 0.1F, 1))));
+						.withPlacement(Placement.COUNT_EXTRA.configure(new AtSurfaceWithExtraConfig(4, 0.1F, 1))));
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION,
 						Feature.RANDOM_PATCH.withConfiguration(Features.Configs.GRASS_PATCH_CONFIG).withPlacement(Features.Placements.PATCH_PLACEMENT)
 								.withPlacement(Placement.COUNT_NOISE.configure(new NoiseDependant(-0.8D, 5, 4))));
