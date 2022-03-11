@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "1": {
+      "item": "dungeonmagic:maginitium_block"
+    },
+    "2": {
+      "item": "dungeonmagic:maginitium"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "dungeonmagic:maginitium_block"
+    },
+    "6": {
+      "item": "minecraft:netherite_hoe"
+    },
+    "8": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:quartz_pillar",
+    "count": 1
+  }
+}

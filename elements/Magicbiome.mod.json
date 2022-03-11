@@ -9,6 +9,18 @@
     "undergroundBlock": {
       "value": "CUSTOM:Magicstone"
     },
+    "airColor": {
+      "value": -26113,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -6723841,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -3407668,
+      "falpha": 0.0
+    },
     "ambientSound": {
       "value": ""
     },

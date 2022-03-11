@@ -203,6 +203,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "branchemagic"
+    },
+    {
+      "name": "Dungicsactivatorr",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dungicsactivatorr"
     }
   ],
   "variable_elements": [],
