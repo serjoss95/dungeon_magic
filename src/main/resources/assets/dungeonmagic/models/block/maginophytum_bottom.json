@@ -1,7 +1,7 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "dungeonmagic:blocks/maginitophytum_base",
-    "particle": "dungeonmagic:blocks/maginitophytum_base"
+    "cross": "dungeonmagic:blocks/fleur2",
+    "particle": "dungeonmagic:blocks/fleur2"
   }
 }
