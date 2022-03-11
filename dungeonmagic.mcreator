@@ -176,7 +176,7 @@
       "name": "Magicbiome",
       "type": "biome",
       "sortid": 12,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "magicbiome"
     },
@@ -192,7 +192,7 @@
       "name": "Boismagic",
       "type": "block",
       "sortid": 10,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "boismagic"
     },
@@ -200,7 +200,7 @@
       "name": "Branchemagic",
       "type": "block",
       "sortid": 11,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "branchemagic"
     }
@@ -215,6 +215,7 @@
       "block.dungeonmagic.magobsidienne": "Magic osidienne",
       "biome.dungeonmagic.magicbiome": "Magic forest",
       "block.dungeonmagic.maginitiumore": "Maginitiumore",
+      "block.dungeonmagic.magicplanks": "Magicplanks",
       "block.dungeonmagic.magicgrass": "Magicgrass",
       "block.dungeonmagic.maginophytum": "Maginophytum",
       "block.dungeonmagic.boismagic": "Magic Wood",
