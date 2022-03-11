@@ -102,8 +102,8 @@ public class MaginophytumBlock extends DungeonmagicModElements.ModElement {
 			};
 			configuredFeature = feature.withConfiguration(
 					(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new DoublePlantBlockPlacer()))
-							.tries(10).func_227317_b_().build())
-					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(5);
+							.tries(1).func_227317_b_().build())
+					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(1);
 			event.getRegistry().register(feature.setRegistryName("maginophytum"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("dungeonmagic:maginophytum"), configuredFeature);
 		}
@@ -147,7 +147,7 @@ public class MaginophytumBlock extends DungeonmagicModElements.ModElement {
 			return (ground == Blocks.GRASS_BLOCK || ground == Blocks.GRASS_PATH || ground == Blocks.MYCELIUM || ground == Blocks.DIRT
 					|| ground == Blocks.COARSE_DIRT || ground == Blocks.PODZOL || ground == Blocks.SAND || ground == Blocks.RED_SAND
 					|| ground == Blocks.NETHERRACK || ground == Blocks.WARPED_NYLIUM || ground == Blocks.CRIMSON_NYLIUM || ground == Blocks.SOUL_SAND
-					|| ground == Blocks.SOUL_SOIL
+					|| ground == Blocks.SOUL_SOIL || ground == MagicgrassBlock.block || ground == MagicdirtBlock.block
 
 			)
 
