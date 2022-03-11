@@ -122,7 +122,11 @@
     "spawnWorldTypes": [
       "Surface"
     ],
-    "restrictionBiomes": [],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Magicbiome"
+      }
+    ],
     "patchSize": 1,
     "onTickUpdate": {
       "name": "ParticlesMaginophytum"
