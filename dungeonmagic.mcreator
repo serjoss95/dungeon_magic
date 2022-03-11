@@ -136,7 +136,7 @@
       "name": "Maginophytum",
       "type": "plant",
       "sortid": 5,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "maginophytum"
     },
@@ -144,7 +144,7 @@
       "name": "NVInventoryMaginophytum",
       "type": "procedure",
       "sortid": 7,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "nv_inventory_maginophytum",
       "metadata": {
@@ -161,12 +161,15 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.dungeonmagic.magicstone": "Magicstone",
       "itemGroup.tabmd_tab": "MD_Tab",
       "item.dungeonmagic.maginitium": "Maginitium",
       "block.dungeonmagic.maginitium_block": "Maginitium Block",
       "block.dungeonmagic.magobsidienne": "Magic osidienne",
       "block.dungeonmagic.maginitiumore": "Maginitiumore",
+      "block.dungeonmagic.magicdirt": "Magicdirt",
       "item.dungeonmagic.carte_kiwi": "Carte Kiwi",
+      "block.dungeonmagic.magicgrass": "Magicgrass",
       "block.dungeonmagic.maginophytum": "Maginophytum"
     }
   },
