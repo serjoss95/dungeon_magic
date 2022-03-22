@@ -219,6 +219,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "craft_dungics"
+    },
+    {
+      "name": "Magicwoodrecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicwoodrecipe"
+    },
+    {
+      "name": "Stick",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stick"
     }
   ],
   "variable_elements": [],
@@ -235,7 +251,7 @@
       "block.dungeonmagic.magicgrass": "Magicgrass",
       "block.dungeonmagic.maginophytum": "Maginophytum",
       "block.dungeonmagic.boismagic": "Magic Wood",
-      "item.dungeonmagic.dungicactivator": "Dungicactivator",
+      "item.dungeonmagic.dungicactivator": "Dungic activator",
       "item.dungeonmagic.maginitium": "Maginitium",
       "block.dungeonmagic.branchemagic": "Branchemagic",
       "block.dungeonmagic.magicdirt": "Magicdirt",

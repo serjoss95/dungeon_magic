@@ -5,42 +5,42 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 1,
+    "recipeRetstackSize": 4,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "Items.NETHERITE_INGOT"
-      },
-      {
-        "value": "CUSTOM:MaginitiumBlock"
-      },
-      {
-        "value": "CUSTOM:Maginophytum"
+        "value": ""
       },
       {
         "value": ""
       },
       {
-        "value": "Items.NETHER_STAR"
-      },
-      {
-        "value": "CUSTOM:MaginitiumBlock"
-      },
-      {
-        "value": "Items.NETHERITE_HOE"
+        "value": ""
       },
       {
         "value": ""
       },
       {
-        "value": "Items.NETHERITE_INGOT"
+        "value": "CUSTOM:Boismagic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Dungicactivator"
+      "value": "CUSTOM:Magicplanks"
     },
-    "name": "dungicactivatorrecipe",
+    "name": "magicwoodrecipe",
     "namespace": "mod"
   }
 }
