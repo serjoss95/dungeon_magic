@@ -5,7 +5,7 @@
     "achievementName": "Alors tu veux vraiment y aller ?",
     "achievementDescription": "Tu veux aller dans une dimension dangereuse... Fais bien attention à toi.",
     "achievementIcon": {
-      "value": "Blocks.REDSTONE_ORE"
+      "value": "CUSTOM:Dungicactivator"
     },
     "background": "Default",
     "disableDisplay": false,
@@ -20,6 +20,6 @@
     "parent": {
       "value": "CUSTOM:MaginitiumItem"
     },
-    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"custom_trigger\" x=\"19\" y=\"50\"><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"item_in_inventory\" x=\"5\" y=\"7\"><value name=\"amount_l\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"amount_h\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:Dungicactivator</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block><block type=\"custom_trigger\" x=\"65\" y=\"19\"></block></xml>"
   }
 }
