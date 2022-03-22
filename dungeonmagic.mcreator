@@ -181,14 +181,6 @@
       "registry_name": "magicbiome"
     },
     {
-      "name": "Maginitiumr",
-      "type": "recipe",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "maginitiumr"
-    },
-    {
       "name": "Boismagic",
       "type": "block",
       "sortid": 10,
@@ -243,6 +235,7 @@
       "block.dungeonmagic.magicgrass": "Magicgrass",
       "block.dungeonmagic.maginophytum": "Maginophytum",
       "block.dungeonmagic.boismagic": "Magic Wood",
+      "item.dungeonmagic.dungicactivator": "Dungicactivator",
       "item.dungeonmagic.maginitium": "Maginitium",
       "block.dungeonmagic.branchemagic": "Branchemagic",
       "block.dungeonmagic.magicdirt": "Magicdirt",
